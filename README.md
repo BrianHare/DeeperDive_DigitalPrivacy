@@ -17,6 +17,7 @@ hareb@umkc.edu
 All materials copyright 2020, Curators of the University of Missouri 
 
 Images used under Fair Use doctrine. Copyright holders may reach me at hareb@umkc.edu if there are issues. 
+Files can be downloaded indvidually, or as a single ZIP archive via the Code button. 
 
 
 These are the slides that formed the presentation, along with a list of background reading, other materials, and a far-from-comprehensive resource guide. If you want to explore even further, I recommend starting with the Electronic Frontier Foundation (https://www.eff.org/). Privacy International (https://www.privacyinternational.org/) is a UK-based organization working in this space as well; while I do not endorse all of their policy prescriptions, I have yet to find a factual error on their site. 
